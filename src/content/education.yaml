@@ -1,0 +1,14 @@
+title: "Education"
+
+content:
+  - school:
+      name: University of Colorado Boulder
+      degree: Bachelor of Science
+      timeline: August 2006 - May 2010
+      description: "Computer Science - Web Development Track  GPA: 3.23"
+
+  - school:
+      name: James Buchanan High School
+      degree: Technology Magnet Program
+      timeline: August 2002 - May 2006
+      description: "GPA: 3:56 "
