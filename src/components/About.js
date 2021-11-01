@@ -3,6 +3,7 @@ import styled from "styled-components"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 
 import StyledSection from "./styles/StyledSection"
+import config from '../../config';
 
 const StyledAbout = styled(StyledSection)`
   padding-top: 16rem;
@@ -51,30 +52,24 @@ function About() {
   return (
     <StyledAbout id="about">
       <h1>
-        John <span className="orange">Doe</span>
+        {config.firstName} <span className="orange">{config.lastName}</span>
       </h1>
       <h3>
-        Cheyenne Wells, CO 80810 · (317) 585-8468 ·
-        <span className="orange">john@email.com</span>
+        {config.address} · {config.phone} ·
+        <span className="orange">{config.email}</span>
       </h3>
       <p>
-        I am experienced in leveraging agile frameworks to provide a robust
-        synopsis for high level overviews. Iterative approaches to corporate
-        strategy foster collaborative thinking to further the overall value
-        proposition.
+        {config.bio}
       </p>
       <IconsWrapper>
-        <a href="/">
+        <a href={`https://www.linkdein.com/in/${config.linkedin}`}>
           <FontAwesomeIcon icon={["fab", "linkedin-in"]} />
         </a>
-        <a href="/">
+        <a href={`https://www.github.com/${config.github}`}>
           <FontAwesomeIcon icon={["fab", "github"]} />
         </a>
-        <a href="/">
+        <a href={`https://www.twitter.com/${config.twitter}`}>
           <FontAwesomeIcon icon={["fab", "twitter"]} />
-        </a>
-        <a href="/">
-          <FontAwesomeIcon icon={["fab", "facebook-f"]} />
         </a>
       </IconsWrapper>
     </StyledAbout>

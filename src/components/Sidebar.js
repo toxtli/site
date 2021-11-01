@@ -1,7 +1,7 @@
 import React from "react"
 import styled from "styled-components"
 import Navigation from "./Navigation"
-import ProfileImg from "../images/profile.jpg"
+import ProfileImg from "../images/photo.jpg"
 
 const SideNavigationWrapper = styled.div`
   /* hide for small and medium devices */

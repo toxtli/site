@@ -4,14 +4,14 @@ import StyledSection from "./styles/StyledSection"
 import StyledItem from "./styles/StyledItem"
 import { StyledH3, StyledH4 } from "./styles/StyledHeadings"
 import Heading from "./Heading"
+import ReactMarkdown from 'react-markdown'
 
 const Job = ({ job }) => (
   <StyledItem>
     <div>
       <StyledH3>{job.role}</StyledH3>
       <StyledH4>{job.company}</StyledH4>
-
-      <p>{job.description}</p>
+      <ReactMarkdown>{job.description.trim()}</ReactMarkdown>
     </div>
 
     <p className="orange timeline">{job.timeline}</p>

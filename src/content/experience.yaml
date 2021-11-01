@@ -2,22 +2,324 @@ title: "Experience"
 
 content:
   - job:
-      company: Intelitec Solutions
-      role: Senior Web Developer
-      timeline: March 2013 - Present
-      description: Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+      company: Graduate Research Assistant
+      role: Northeastern University
+      timeline: 
+      description: "Main Responsibilities:
+
+          - The design, development and evaluation of A.I. tools to enable the Future of Work
+
+
+        Main Achievements:
+
+          - Publish research papers."
   - job:
-      company: Intelitec Solutions
-      role: Web Developer
-      timeline: December 2011 - March 2013
-      description: Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+      company: Research Intern
+      role: Snap Inc.
+      timeline: 
+      description: "Main Responsibilities: 
+
+          - Research and development of tools that understand context-aware user behavior.
+
+
+        Main Achievements:
+
+          - Big Data analysis.
+
+          - Causal inference study."
   - job:
-      company: Shout! Media Productions
-      role: Junior Web Designer
-      timeline: July 2010 - December 2011
-      description: Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration
+      company: Research Intern
+      role: Microsoft Research
+      timeline: 
+      description: "Main Responsibilities: 
+
+          - Research and development of tools that enable assisted document’s comments management. Worked under the guidance of Elnaz Nouri, Robert Sim, and Ryen White.
+        
+
+        Main Achievements:
+
+          - The first study about understanding the taxonomy of comments in documents. 
+
+          - The outcome was a dataset and a Multi Context Neural Network architecture based on BERT for classifying comments to implement automatic comments triage."
   - job:
-      company: Shout! Media Productions
-      role: Web Design Intern
-      timeline: September 2008 - June 2010
-      description: Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI.
+      company: Research Fellow
+      role: Twitch (Amazon)
+      timeline: 
+      description: "Main Responsibilities:
+        
+          - Conducting research.
+
+
+        Main Achievements:
+
+          - Crowd + AI powered tools that can help Twitch moderators to fight disinformation & hate speech in live streams."
+  - job:
+      company: GitHub Campus Expert
+      role: GitHub (Microsoft)
+      timeline: 
+      description: "Main Responsibilities:
+
+          - Enrich technology communities.
+
+
+        Main Achievements:
+
+          - Empower developers."
+  - job:
+      company: AI Dean and Research Advisor
+      role: School of AI
+      timeline: 
+      description: "Main Responsibilities:
+
+          - Promote AI technologies in the region
+
+
+        Main Achievements:
+
+          - Building a community and teaching about AI implementation."
+  - job:
+      company: Research Intern
+      role: Microsoft Research
+      timeline: 
+      description: "Main Responsibilities: 
+
+          - Research and development of bot that helps teams to delegate tasks. 
+
+          - Worked under the guidance of Andres Monroy and Justin Cranshaw.
+
+
+        Main Achievements:
+
+          - The bot was developed and deployed during the internship.
+
+          - Performed user studies and published a research paper."
+  - job:
+      company: Research Visiting Scholar and Graduate Research Assistant
+      role: West Virginia University
+      timeline: 
+      description: "Main Responsibilities:
+
+          - The design, development and evaluation of bot-mediated systems.
+
+          - Publish research papers.
+
+
+        Main Achievements:
+
+          - Development of Artificial Intelligence projects: DeepStab, DeepPiracy, Hum2Song, ExpertTwin, MultiAffect, and AutomEditor.
+
+          - MATT: Bot that delivers micro-tutorials via chat and retrieves feedback from experts.
+
+          - Meta Gig: A Sharing Economy 2.0 platform that enables non-technical people to create sharing economy platforms.
+
+          - Reputation Agent:  System that detects inaccurate reviews given to gig workers.
+
+          - Learnteer: Bot that helps learners develop new skills through volunteering.
+
+          - SocialVaccines: Platform that performs contained attacks and delivers security courses to vulnerable people."
+  - job:
+      company: Technical Solutions Specialist
+      role: Google
+      timeline: 
+      description: "Main Responsibilities: 
+
+          - Designed and developed tools to improve education in all public elementary schools, middle schools, and high schools in Mexico, especially focused on CS curriculum in full coordination with the federal government.
+
+
+        Main Achievements:
+
+          - The design and development of “Drive Sync” tool which synchronizes the content of over 2 million tablets that were given to children of the 5th and 6th grades nationally.
+          
+          - The design of an Android development curriculum and training for all high school professors at the national level (around 150k CS students).
+          
+          - Design of a programming curriculum for all elementary schools nationally using Scratch (starting pilot could reach over a million children).
+          
+          - Research paper “Quantifying the Economic Value of Tablets for K–12 Education”.
+          
+          - Evaluation of device management and anti-theft solutions for governments. Android for Work and different MDM platforms were evaluated."
+  - job:
+      company: Technical Program Manager
+      role: Google
+      timeline: 
+      description: "Main Responsibilities: 
+
+          - Designed and developed fully-functional and customizable software integration solutions that allowed schools to use Google products and technologies to improve teaching, learning, and administration, helping students to solve their educational needs. Evaluated networking and software projects proposed by universities and partners, and provided advice on the best way to design cloud-ready solutions for all community members.
+
+      
+        Main Achievements: 
+
+          - Products developed
+          
+          - Followed the entire product life cycle (proposal, technical design, development, reviewing, and publishing) of “Account provisioning for Google Apps” API which is now published in  Google’s official Github.
+          
+          - Developed Groups Generator for Schools Add-On, a tool that creates users, groups, calendars, shared folders, sites, circles and org unit in bulk using a CSV file. Developed using Apps Script.
+          
+          - Developed multiple integration snippets using Google Apps Script to solve common Education use cases.
+          
+          - Content generation: Published the Google plugins in Moodle official site and created the content of the section “Systems Integration” in Google for Work Connect platform.
+          
+          - Integration: More than 100k users provisioned in schools of Africa and America.
+          
+          - Public speaking: More than 10 public talks/webinars on behalf of Google."
+  - job:
+      company: Webmaster
+      role: United Nations (UNESCO, UNICEF, UNDP)
+      timeline: 
+      description: "Main Responsibilities: 
+
+          - Content management for UNESCO, UNICEF and UNDP agencies.
+
+
+        Main Achievements:
+
+          - Developed a program and system to promote reading which was implemented with government collaboration for all of Mexico’s high school schools. This impacted over 3 million students.
+
+          - Information gathering system.
+
+          - Digital communication strategy."
+  - job:
+      company: Chief Technology Officer
+      role: Kosmos
+      timeline: 
+      description: "Main Responsibilities: 
+          
+          - Innovation lab coordination
+
+
+        Main Achievements:
+
+          - Design of security tools based on Artificial Intelligence
+
+          - Automation of the processes involved in credit granting."
+  - job:
+      company: Chief Technology Officer
+      role: Irys
+      timeline: 
+      description: "Main Responsibilities: 
+
+          - Leading the SaaS development team.
+
+        
+        Main Achievements:
+
+          - Planning the next generation community engagement platform
+
+          - Defining data-driven strategies."
+  - job:
+      company: Chief Technology Officer
+      role: Thincrs
+      timeline: 
+      description: "Main Responsibilities: 
+  
+          - Leading the platform development team.
+
+
+        Main Achievements:
+
+          - Design and development of the Learning Management System.
+
+          - Design and development of the Talent Acquisition System."
+  - job:
+      company: Chief Technology Officer
+      role: YBot Studio
+      timeline: 
+      description: "Main Responsibilities: 
+
+          - Leading the bot development team.
+
+
+        Main Achievements:
+
+          - Multiple bots developed for national and international companies.
+
+          - The most common bots were in the following areas: Customer service, Human Resources, Computer Vision, E-commerce and Education."
+  - job:
+      company: Chief Technology Officer
+      role: HolaGus
+      timeline: 
+      description: "Main Responsibilities: 
+
+          - Leading the development of a digital concierge service. It is the most used personal assistant in Mexico.
+
+        
+        Main Achievements:
+
+          - Designed and developed an administration dashboard in which users, bots, and operators can interact and coexist.
+
+          - Implemented AI in chatbots to take orders of common automatable tasks such as flights, reservations, and food delivery."
+  - job:
+      company: Co-Founder and Chief Information Officer
+      role: ComproPago
+      timeline: 
+      description: "Main Responsibilities: 
+
+          - Technical leadership. Fund rasing.
+
+
+        Main Achievements:
+
+          - Developed the biggest cash payment solution in Mexico with a network of 130K points of payment.
+
+          - Designed and developed API endpoints and bank bots."
+  - job:
+      company: Co-Founder and Chief Technology Officer
+      role: Aztek Technologies
+      timeline: 
+      description: "Main Responsibilities: 
+
+          - Technical leadership.
+
+
+        Main Achievements:
+        
+          - Developing projects for small and medium business as well as multinationals
+
+          - Among the largest projects was a welfare system that was developed for the government and ran on over 10K mobile devices and benefitted close to 23 million people."
+  - job:
+      company: Chief Technology Officer
+      role: Real Estate Group
+      timeline: 
+      description: "Main Responsibilities: 
+
+          - Technical leadership.
+
+
+        Main Achievements:
+        
+          - Managed the network, developed the website, and started the datacenter from scratch and the uptime was 99%."
+  - job:
+      company: Systems Administrator
+      role: Anahuac University
+      timeline: 
+      description: "Main Responsibilities: 
+
+          - Developing the intranet.
+
+
+        Main Achievements:
+        
+          - Interconnected 300 institutions and integrated the systems between them."
+  - job:
+      company: Professor
+      role: International University Center (CUIN)
+      timeline: 
+      description: "Main Responsibilities: 
+
+          - Lecturing undergraduate courses.
+
+
+        Main Achievements:
+        
+          - Taught two undergraduate courses."
+  - job:
+      company: Instructor
+      role: Private Courses (~10 years)
+      timeline: 
+      description: "Main Responsibilities: 
+
+          - Teaching to students and professionals.
+
+
+        Main Achievements:
+        
+          - Worked for 11 years as a CS teacher covering over 15 different topics with over 30 particular clients and over 200 students."

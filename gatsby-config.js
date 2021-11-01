@@ -28,7 +28,7 @@ module.exports = {
       options: {
         name: `resume-template`,
         short_name: `resume`,
-        start_url: `/`,
+        start_url: `/site/`,
         background_color: `#fff`,
         theme_color: `#bd5d38`,
         display: `minimal-ui`,

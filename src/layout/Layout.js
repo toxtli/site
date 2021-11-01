@@ -10,6 +10,8 @@ import { faTrophy } from "@fortawesome/free-solid-svg-icons"
 import Header from "../components/Header"
 import Sidebar from "../components/Sidebar"
 import SEO from "../components/Seo"
+import config from '../../config';
+
 // Load typeface
 require("@openfonts/saira-condensed_latin")
 require("typeface-open-sans")
@@ -74,9 +76,9 @@ const Layout = ({ children }) => (
   <ThemeProvider theme={theme}>
     <Normalize />
     <GlobalStyle />
-    <SEO title="John Doe's Resume" />
+    <SEO title="Carlos Toxtli's Resume" />
     <StyledWrapper>
-      <Header siteTitle="John Doe" />
+      <Header siteTitle="Carlos Toxtli" />
       <Sidebar />
       <main>{children}</main>
     </StyledWrapper>
