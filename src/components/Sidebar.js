@@ -2,6 +2,7 @@ import React from "react"
 import styled from "styled-components"
 import Navigation from "./Navigation"
 import ProfileImg from "../images/photo.jpg"
+import config from '../../config';
 
 const SideNavigationWrapper = styled.div`
   /* hide for small and medium devices */
@@ -33,7 +34,7 @@ function SideNavigation() {
   return (
     <SideNavigationWrapper id="sidebar">
       <StickyDiv>
-        <img src={ProfileImg} alt="John Doe" />
+        <img src={ProfileImg} alt={`${config.firstName} ${config.lastName}`} />
         <Navigation />
       </StickyDiv>
     </SideNavigationWrapper>

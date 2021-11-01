@@ -1,10 +1,10 @@
 module.exports = {
   siteMetadata: {
-    title: `Resume Template`,
+    title: `Carlos Toxtli Homepage`,
     description: `Resume Template. Design coded from https://startbootstrap.com/themes/resume/ `,
     author: `@atarsa`,
   },
-  pathPrefix: "/resume-template",
+  pathPrefix: "/site",
   plugins: [
     {
       resolve: `gatsby-plugin-styled-components`,
@@ -26,7 +26,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `resume-template`,
+        name: `site`,
         short_name: `resume`,
         start_url: `/site/`,
         background_color: `#fff`,
