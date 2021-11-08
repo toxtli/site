@@ -2,13 +2,37 @@ title: "Education"
 
 content:
   - school:
-      name: University of Colorado Boulder
-      degree: Bachelor of Science
-      timeline: August 2006 - May 2010
-      description: "Computer Science - Web Development Track  GPA: 3.23"
+      name: Ph.D. in Computer Science
+      degree: Northeastern University
+      timeline: 
+      description: "Graduation date May 2022"
 
   - school:
-      name: James Buchanan High School
-      degree: Technology Magnet Program
-      timeline: August 2002 - May 2006
-      description: "GPA: 3:56 "
+      name: Ph.D. in Computer Science
+      degree: West Virginia University
+      timeline: 
+      description: "First to fourth year"
+
+  - school:
+      name: Master in Innovation and Technological Entrepreneurship
+      degree: Monterrey Institute of Technology and Higher Education (ITESM)
+      timeline: 
+      description: ""
+
+  - school:
+      name: Master of Business Administration
+      degree: IEDE Business School, European University of Madrid
+      timeline: 
+      description: ""
+
+  - school:
+      name: BS in Computer Science
+      degree: University of the Valley of Mexico (UVM)
+      timeline: 
+      description: ""
+
+  - school:
+      name: BS in Computer Engineering
+      degree: National Autonomous University of Mexico (UNAM)
+      timeline: 
+      description: ""
