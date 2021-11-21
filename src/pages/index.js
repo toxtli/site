@@ -3,6 +3,7 @@ import Layout from "../layout/Layout"
 import About from "../components/About"
 import Experience from "../components/Experience"
 import Education from "../components/Education"
+import Publications from "../components/Publications"
 import Skills from "../components/Skills"
 import Interests from "../components/Interests"
 import Awards from "../components/Awards"
@@ -44,6 +45,7 @@ const IndexPage = () => {
       <About />
       <Experience />
       <Education />
+      <Publications />
       <Skills />
       <Interests />
       <Awards />

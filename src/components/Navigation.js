@@ -30,6 +30,7 @@ const Navigation = () => (
     <StyledLink to="#about">About</StyledLink>
     <StyledLink to="#experience">Experience</StyledLink>
     <StyledLink to="#education">Education</StyledLink>
+    <StyledLink to="#publications">Publications</StyledLink>
     <StyledLink to="#skills">Skills</StyledLink>
     <StyledLink to="#interests">Interests</StyledLink>
     <StyledLink to="#awards">Awards</StyledLink>

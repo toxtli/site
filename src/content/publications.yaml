@@ -2,114 +2,114 @@ title: "Research"
 
 content:
   - publication:
-      title: Quantifying the Invisible Labor in Crowd Work
+      title: "Quantifying the Invisible Labor in Crowd Work"
       authors: "**Carlos Toxtli**, Siddharth Suri, Saiph Savage"
       venue: "ACM Conference on Computer-Supported Cooperative Work, CSCW 2021, Virtual"
   - publication:
-      title: Research Methods to Study & Empower Crowd Workers
+      title: "Research Methods to Study & Empower Crowd Workers"
       authors: "Saiph Savage, **Carlos Toxtli**, Eber Betanzos"
       venue: "Book Chapter in Research Methods for Digital Work and Organization, Oxford University Press 2021."
   - publication:
-      title: Designing for the Invisible Global Workers behind our A.I. Industry
+      title: "Designing for the Invisible Global Workers behind our A.I. Industry"
       authors: "**Carlos Toxtli**, Anastasia Lucas, Eeshani Mondal, Dmitry Ustalov, Saiph Savage"
       venue: "ACM Conference on Computer-Supported Cooperative Work, CSCW 2021, Workshop, The Global Labors of AI and Data Intensive Systems, Virtual"
   - publication:
-      title: Reputation Agent: Prompting Fair Reviews in Gig Markets
+      title: "Reputation Agent: Prompting Fair Reviews in Gig Markets"
       authors: "**Carlos Toxtli**, Angela Richmond, Saiph Savage"
       venue: "The Web Conference, WWW 2020 (A.R.19%), Taipei, Taiwan"
   - publication:
-      title: Becoming the Super Turker: Following Transparency Criteria for Higher Wages
+      title: "Becoming the Super Turker: Following Transparency Criteria for Higher Wages"
       authors: "Saiph Savage, Chun Wei Chiang, Susumu Saito, **Carlos Toxtli**, and Jeffrey Bigham"
       venue: "The Web Conference, WWW 2020 (A.R.19%), Taipei, Taiwan"
   - publication:
-      title: Understanding Chatbot-mediated Task Management
+      title: "Understanding Chatbot-mediated Task Management"
       authors: "**Carlos Toxtli**, Justin Cranshaw, Andres Monroy-Hernandez"
       venue: "CHI: ACM Conference on Human Factors in Computing Systems, paper 2018 (A.R. 23.8%), Canada."
   - publication:
-      title: Meta-Gig: Empowering anyone to create crowd marketplaces
+      title: "Meta-Gig: Empowering anyone to create crowd marketplaces"
       authors: "**Carlos Toxtli**, Saiph Savage"
       venue: "Advances in Human-Computer Interaction. 2020 Nov 30(1):11-9."
   - publication:
-      title: Enabling Expert Critique at Scale with Chatbots and Micro Guidance
+      title: "Enabling Expert Critique at Scale with Chatbots and Micro Guidance"
       authors: "**Carlos Toxtli**, Saiph Savage"
       venue: "Advances in Computer-Human Interactions, 2020 (A.R. 28%), Valencia, Spain"
   - publication:
-      title: ExperTwin: An Alter Ego in Cyberspace forKnowledge Workers
+      title: "ExperTwin: An Alter Ego in Cyberspace forKnowledge Workers"
       authors: "**C. Toxtli**, M. Maurier, C. Flores-Saviaga, S. Singh, T. Bankole, M. Cantley, A. Entrekin, A. Ribot, S. Reddy, R. Reddy"
       venue: "IEEE Smart Data 2018, Halifax, Canada"
   - publication:
-      title: Enabling Expert Critique with Chatbots and Micro Guidance
+      title: "Enabling Expert Critique with Chatbots and Micro Guidance"
       authors: "**Carlos Toxtli**, Joel Chan, Walter Lasecki, Saiph Savage"
       venue: "CI, ACM Collective Intelligence Conference Series , 2018, Switzerland"
   - publication:
-      title: LuzDeploy: A Collective Action System for Installing Navigation Infrastructure for Blind People
+      title: "LuzDeploy: A Collective Action System for Installing Navigation Infrastructure for Blind People"
       authors: "Cole Gleason, Dragan Ahmetovic, **Carlos Toxtli**, Saiph Savage, Jeffrey P. Bigham, Chieko Asakawa"
       venue: "W4A (Web For All), paper 2017, Australia"
   - publication:
-      title: Botsourcer: Crowdsourcing Volunteers for a Political Cause using Online Bots
+      title: "Botsourcer: Crowdsourcing Volunteers for a Political Cause using Online Bots"
       authors: "**Carlos Toxtli**, Claudia Flores-Saviaga, Saiph Savage"
       venue: "The 66th Annual Conference of the International Communication Association, 2016, Japan."
   - publication:
-      title: BotViz: Data Visualizations for Collaborations With Bots and Volunteers
+      title: "BotViz: Data Visualizations for Collaborations With Bots and Volunteers"
       authors: "**Carlos Toxtli**, Claudia Flores-Saviaga, Flor Aguilar, Alejandra Monroy, William Dai, Juan Pablo Flores, Nedda Amini, Jeerel Herrejon, Shloka Desai, Norma Elva Chavez, Saiph Savage"
       venue: "CSCW: ACM Conference on Computer-Supported Cooperative Work, posters 2016."
   - publication:
-      title: Visualizing Targeted Online Audiences
+      title: "Visualizing Targeted Online Audiences"
       authors: "Saiph Savage, Angus Forbes, **Carlos Toxtli**, Grant McKenzie, Shloka Desai, Tobias Hollerer"
       venue: "COOP: Conference on the Design of Cooperative Systems 2014: Springer. France."
   - publication:
-      title: Daemo: A Self- Governed Crowd Marketplace
+      title: "Daemo: A Self- Governed Crowd Marketplace"
       authors: "Stanford Crowd Research Collective, Saiph Savage, **Carlos Toxtli**, Michael Bernstein. "
       venue: "UIST: ACM Symposium on User Interface Software and Technology, posters 2015."
   - publication:
-      title: A Social Crowd-Controlled Orchestra
+      title: "A Social Crowd-Controlled Orchestra"
       authors: "Saiph Savage, Norma Elva Chavez, **Carlos Toxtli**, Salvador Medina, David Alvarez, Tobias Hollerer."
       venue: "CSCW: ACM Conference on Computer-Supported Cooperative Work, posters,  2013."
   - publication:
-      title: Nintendo Wiimote for Arm and Wrist Therapy in Stroke Survivors with Upper Extremity Hemipariesis
+      title: "Nintendo Wiimote for Arm and Wrist Therapy in Stroke Survivors with Upper Extremity Hemipariesis"
       authors: "Ron S. Leder, Gil Azcarate, Rodrigo Savage, Saiph Savage, L. Enrique Sucar, David Reinkensmeyer, **Carlos Toxtli**, Emilio Roth, Ariel Molina."
       venue: "IEEE Virtual Rehabilitation 2008. Canada."
   - publication:
-      title: Micro-Apprenticing: Guiding Volunteers with Online Expert Strangers, 
+      title: "Micro-Apprenticing: Guiding Volunteers with Online Expert Strangers"
       authors: "**Carlos Toxtli**,  Claudia Flores-Saviaga, Joel Chan, Walter S. Lasecki, Andres Monroy-Hernandez, Saiph Savage,"
       venue: "UIST: ACM Symposium on User Interface Software and Technology 2017."
   - publication:
-      title: Understanding the Crowd Markets that Workers and Requesters Imagine
+      title: "Understanding the Crowd Markets that Workers and Requesters Imagine"
       authors: "**Carlos Toxtli**, Juan Pablo Castillo, Alberto Campos, Benjamin V. Hanraha, Kotaro Hara, Chris Callison-Burch, Jeffrey Bigham, Kristy Milland, Abigail Adams, Saiph Savage"
       venue: "CI, ACM Collective Intelligence Conference Series, Poster, 2019, Pittsburgh"
   - publication:
-      title: MultiAffect: Reproducible Research Framework for Multimodal Video Classification and  Regression Tasks
+      title: "MultiAffect: Reproducible Research Framework for Multimodal Video Classification and  Regression Tasks"
       authors: "**Carlos Toxtli**, Salvador Medina, Saiph Savage"
       venue: "OMGBook2019: Neural and Machine Learning for Emotion and Empathy Recognition"
   - publication:
-      title: Migrating from Classical Machine Learning to Quantum Machine Learning: an overview and case study on Drug Discovery
+      title: "Migrating from Classical Machine Learning to Quantum Machine Learning: an overview and case study on Drug Discovery"
       authors: "Yash Patel, **Carlos Toxtli**"
       venue: "School of AI, Research Fellowship 2019"
   - publication:
-      title: AutomEditor: Video blooper recognition and localization for automatic monologue video editing
+      title: "AutomEditor: Video blooper recognition and localization for automatic monologue video editing"
       authors: "**Carlos Toxtli**, Chun-Wei Chiang, Saiph Savage"
       venue: ""
   - publication:
-      title: CiuData: Designing Smart Cities for Conversations between Governments and Citizens
+      title: "CiuData: Designing Smart Cities for Conversations between Governments and Citizens"
       authors: "**Carlos Toxtli**, Saiph Savage"
       venue: "Campus Party, Zapopan, Mexico, Technical report"
   - publication:
-      title: Botivist: Calling Volunteers to Action using Online Bots
-      authors: "Claudia Flores-Saviaga, **Carlos Toxtli**, Saiph Savage,"
+      title: "Botivist: Calling Volunteers to Action using Online Bots"
+      authors: "Claudia Flores-Saviaga, **Carlos Toxtli**, Saiph Savage"
       venue: "UIST: ACM Symposium on User Interface Software and Technology 2016."
   - publication:
-      title: Learnteer: Guided Volunteering for Quality Workand Professional Development
+      title: "Learnteer: Guided Volunteering for Quality Workand Professional Development"
       authors: "**Carlos Toxtli**, Claudia Flores-Saviaga, Andres Monroy, Walter Lasecki, Saiph Savage."
       venue: "UIST: ACM  Symposium on User Interface Software and Technology 2016."
   - publication:
-      title: Social Media, Civic Engagement, and the Slacktivism Hypothesis: Lessons From Mexico’s “El Bronco”
+      title: "Social Media, Civic Engagement, and the Slacktivism Hypothesis: Lessons From Mexico’s “El Bronco”"
       authors: "Philip N. Howard, Saiph Savage, Claudia Flores Saviaga, **Carlos Toxtli**, Andres Monroy-Hemandez"
       venue: "Journal of International Affairs, Columbia, SIPA"
   - publication:
-      title: The Crowd Markets Workers and Requesters Imagine
+      title: "The Crowd Markets Workers and Requesters Imagine"
       authors: "**Carlos Toxtli**, Juan Pablo Castillo, Alberto Campos, Benjamin V. Hanraha, Kotaro Hara, Chris Callison-Burch, Jeffrey Bigham, Kristy Milland, Abigail Adams, Saiph Savage"
       venue: ""
   - publication:
-      title: Experimental Study of User Interactions with Social Media Spam
+      title: "Experimental Study of User Interactions with Social Media Spam"
       authors: "Thomas Kyankoa, Katerina Goseva-Popstojanovaa, **Carlos Toxtli**, Saiph Savage"
       venue: ""
