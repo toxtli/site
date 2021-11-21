@@ -31,10 +31,13 @@ const Navigation = () => (
     <StyledLink to="#experience">Experience</StyledLink>
     <StyledLink to="#education">Education</StyledLink>
     <StyledLink to="#publications">Publications</StyledLink>
+  </StyledNav>
+)
+
+/*
     <StyledLink to="#skills">Skills</StyledLink>
     <StyledLink to="#interests">Interests</StyledLink>
     <StyledLink to="#awards">Awards</StyledLink>
-  </StyledNav>
-)
+*/
 
 export default Navigation
